@@ -1,6 +1,6 @@
 # hello-world
-first repository.
+## first repository.
 
 
-Sayan here ...i like python and c.
-i love cricket.
+* Sayan here ...i like python and c.
+* i love cricket.
